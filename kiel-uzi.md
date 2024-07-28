@@ -20,7 +20,7 @@ git config credential.helper store
 
 ---
 
-inspekti la remote URL
+## inspekti la remote URL
 
 git remote -vv
 
