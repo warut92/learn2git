@@ -1,0 +1,1 @@
+Jen estas mia testa mesagxo por lerni kiel uzi git.
