@@ -1,4 +1,6 @@
-Hodiaux mi trovis la manieron por uzi git pere de Terminalo.
+# Kiel uzi?
+
+## Hodiaux mi trovis la manieron por uzi git pere de Terminalo.
 
 git clone <URL>
 
@@ -12,6 +14,9 @@ git push
 
 ## se malsukcesas. Vi prenu la Token de Setting > Devoloper setting > Personal access tonken > Tokens (Classic) kaj prenu la Token kiel la pasvorto!
 
+## por konservi la Token
+
+git config credential.helper store
 ---
 
 inspekti la remote URL
