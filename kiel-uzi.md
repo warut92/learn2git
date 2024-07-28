@@ -17,12 +17,13 @@ git push
 ## por konservi la Token
 
 git config credential.helper store
+
 ---
 
 inspekti la remote URL
 
 git remote -vv
 
-por agordi gxustan URL
+## por agordi gxustan URL
 
-git remote set-url origin https://yourname@github.com/yourname/yourrepo.git
+git remote set-url origin https://via-uzantnomo@github.com/via-uzantnomo/via-repo.git
